@@ -1,1 +1,1 @@
-# Konsenzus Algorimti
+# Konsenzus Algoritmi
